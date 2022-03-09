@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
 
-A hardworking, independent, deadline driven and knowledge seeking individual who believes that <b>one can master any skill, it's just a matter of time and dedication</b>.Extremely passionate towards Web Development and seeking opportunities to learn, create, explore and enhance my skills in the respective field.
+A hardworking, independent, deadline driven and knowledge seeking individual who believes that <b>one can master any skill, it's just a matter of time and dedication</b>. Extremely passionate towards Web Development and seeking opportunities to learn, create, explore and enhance my skills in the respective field.
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arambh009&label=Profile%20views&color=0e75b6&style=flat" alt="arambh009" /> </p>
