@@ -27,4 +27,4 @@ A hardworking, independent, deadline driven and knowledge seeking individual who
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arambh009&show_icons=true&locale=en&layout=compact" alt="arambh009" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arambh009&show_icons=true&locale=en" alt="arambh009" /></p>
+<p style="margin-top:10">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arambh009&show_icons=true&locale=en" alt="arambh009" /></p>
